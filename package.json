@@ -1,0 +1,17 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-s": "sass --watch src/styles/sass/styles.scss src/styles/css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglifycss": "^1.1.0",
+    "sass": "^1.50.1"
+  }
+}
